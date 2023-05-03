@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GGH12
 - 👀 I’m interested in backend and mobile development
-- 🌱 I’m currently learning as a software engineer in FPT University
+- 🌱 Finished studying in FPT University
 
 <!---
 GGH12/GGH12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
